@@ -1,0 +1,7 @@
+REGI RADIO222 225.004.009.000 4243 192.168.001.019 4242
+
+Connexion avec le diffuseur à l'adresse : localhost et au port : 9001 reussi 
+Message recu du gestionnaire ==  RENO
+  
+Message recu du gestionnaire RENO
+ apairage impossible 
